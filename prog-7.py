@@ -1,0 +1,1 @@
+resultado = int(input ("insira o numero inteiro: "))
