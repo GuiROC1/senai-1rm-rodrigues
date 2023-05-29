@@ -1,1 +1,6 @@
-Hoje a cordei e acabou o cuzcuz !
+Sempre que for realizado atualização no arquivo.
+
+git status
+git add .
+git commint -m "texto"
+git push 
